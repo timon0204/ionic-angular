@@ -1,0 +1,22 @@
+{
+  "name": "ion-smooth-scroll",
+  "version": "1.0.0",
+  "homepage": "https://github.com/amiteshhh/ion-smooth-scroll",
+  "authors": [
+    "Amitesh Kumar <amiteshhh.nitk@gmail.com>"
+  ],
+  "description": "An alternate to $ionicScrollDelegate.anchorScroll with smooth scrolling without polluting hash Url",
+  "main": "src/ion-smoooth-scroll.js",
+  "keywords": [
+    "ionic",
+    "angular",
+    "anchorScroll",
+    "smoothScroll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "docs",
+    ".bowerrc",
+    ".gitignore"
+  ]
+}
